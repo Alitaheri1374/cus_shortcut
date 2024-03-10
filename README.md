@@ -5,11 +5,11 @@ Package for Flutter apps that use shortcut in web,windows and... .
 ## Usage
     
 [//]: # (To use this package, follow the [installing guide]&#40;https://pub.dev/packages/cus_shortcut/install;.)
-    - [import 'package:cus_shortcut/cus_shortcut.dart']
-    - [create List of ModelShortCuts]
-    - [use widget CusShortcutWidget]
-    - [create event method for handle event]
-    - [set child widget]
+- [import 'package:cus_shortcut/cus_shortcut.dart']
+- [create List of ModelShortCuts]
+- [use widget CusShortcutWidget]
+- [create event method for handle event]
+- [set child widget] 
 ### sample
 
 Use widget and set event Method 
