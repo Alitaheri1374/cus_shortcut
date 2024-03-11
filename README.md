@@ -3,7 +3,7 @@
 Package for Flutter apps that use shortcut in web,windows and... .
 
 ## demo
-    [![Watch the video](https://drive.google.com/file/d/1N8XZMTG_6fGdZfLm7e53MkuHJ3uL2F38/view?usp=sharing)](https://drive.google.com/file/d/1DeeDdaxkrkEx7WVOysUEB01D3svU7ZFX/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1N8XZMTG_6fGdZfLm7e53MkuHJ3uL2F38/view?usp=sharing)](https://drive.google.com/file/d/1DeeDdaxkrkEx7WVOysUEB01D3svU7ZFX/view?usp=sharing)
 
 ## Usage
     
