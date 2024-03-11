@@ -29,16 +29,16 @@ class Sample extends StatefulWidget {
 class _SampleState extends State<Sample> {
 
   //create custom list
-  List<ModelShortCuts>listShortcut=[
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.f2),shortcutEventTypeEnum: ShortcutEventTypeEnum.f2),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.alt,LogicalKeyboardKey.f6),shortcutEventTypeEnum: ShortcutEventTypeEnum.altF6),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.alt,LogicalKeyboardKey.f5),shortcutEventTypeEnum: ShortcutEventTypeEnum.altF5),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowDown),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowDown),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowUp),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowUp),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowLeft),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowLeft),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowRight),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowRight),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.enter),shortcutEventTypeEnum: ShortcutEventTypeEnum.enter),
-    ModelShortCuts( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.delete),shortcutEventTypeEnum: ShortcutEventTypeEnum.delete),
+  List<ModelShortcut>listShortcut=[
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.f2),shortcutEventTypeEnum: ShortcutEventTypeEnum.f2),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.alt,LogicalKeyboardKey.f6),shortcutEventTypeEnum: ShortcutEventTypeEnum.altF6),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.alt,LogicalKeyboardKey.f5),shortcutEventTypeEnum: ShortcutEventTypeEnum.altF5),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowDown),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowDown),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowUp),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowUp),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowLeft),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowLeft),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.arrowRight),shortcutEventTypeEnum: ShortcutEventTypeEnum.arrowRight),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.enter),shortcutEventTypeEnum: ShortcutEventTypeEnum.enter),
+    ModelShortcut( logicalKeySet: LogicalKeySet(LogicalKeyboardKey.delete),shortcutEventTypeEnum: ShortcutEventTypeEnum.delete),
 
   ];
 

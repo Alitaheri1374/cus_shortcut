@@ -10,7 +10,7 @@ import 'model.dart';
 ///***
 ///
 class CusShortcutWidget extends StatelessWidget {
-  final List<ModelShortCuts> listShortcut;
+  final List<ModelShortcut> listShortcut;
   final Function(int index,ShortcutEventTypeEnum? shortcutEventTypeEnum) event;
   final Widget child;
   final bool? waiting;
