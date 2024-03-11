@@ -18,8 +18,7 @@ Use widget and set event Method
 ```dart
 
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter/material.dart'; 
 import 'package:cus_shortcut/cus_shortcut.dart';
 
 

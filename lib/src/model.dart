@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'env.dart';
-
+export 'package:flutter/services.dart' show LogicalKeyboardKey;
 class ModelShortCuts{
   final LogicalKeySet? logicalKeySet;
   final ShortcutEventTypeEnum? shortcutEventTypeEnum;
